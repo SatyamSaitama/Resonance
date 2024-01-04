@@ -1,0 +1,11 @@
+numpy
+openai-whisper
+scikit-learn
+Flask
+flask_caching
+Flask_Cors
+flask_jwt_extended
+Flask_RESTful
+flask_sqlalchemy
+gunicorn
+
